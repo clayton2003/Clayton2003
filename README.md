@@ -3,16 +3,30 @@
 
 <hr>
 <ul>
-    <li>Programador Iniciante</li>
-    <li>Estudando atualmente:
-href="https://www.w3schools.com/js/default.asp">JavaScript</a>, <a href="https://www.w3schools.com/python/default.asp">Python</a>, <a href="https://www.w3schools.com/java/default.asp">Java</a>, <a href="https://www.w3schools.com/sql/default.asp">SQL</a></li><li>  
-  <div style="display: inline">
+  
+<li>Programador Iniciante</li>
+    
+<li>Estudando atualmente:
 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+href="https://www.w3schools.com/js/default.asp">JavaScript</a>, <a href="https://www.w3schools.com/python/default.asp">Python</a>, <a href="https://www.w3schools.com/java/default.asp">Java</a>, <a href="https://www.w3schools.com/sql/default.asp">SQL</a></li>                                                                                                             
+
+<li>
+
+<div style="display: inline">
+
+ 
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
+
+
 </div>
+
 </li>
+
 </ul>
+
+![Clayton Tancredo GitHub stats](https://github-readme-stats.vercel.app/api?username=Clayton2003&show_icons=true&theme=algolia)
